@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c6e42ad-935a-4a82-94e0-405db7871a30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LogApp/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LogApp/LogApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LogApp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LogApp/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LogApp/UsersDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/LogApp/LogAppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/LogApp/LogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/LogApp/UserTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="9c6e42ad-935a-4a82-94e0-405db7871a30" name="Changes" comment="Full log app, tests done in junit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,17 +30,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PJTeb/LogAplication&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "D:/PJTeb/LogApp"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -80,7 +66,23 @@
       <workItem from="1674209007254" duration="43000" />
       <workItem from="1674209077440" duration="26000" />
       <workItem from="1674209131581" duration="45000" />
+      <workItem from="1674209199232" duration="591000" />
     </task>
+    <task id="LOCAL-00001" summary="Full log app, tests done in junit">
+      <created>1674209288999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674209288999</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Full log app, tests done in junit">
+      <created>1674209714634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674209714634</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Full log app, tests done in junit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Full log app, tests done in junit" />
   </component>
 </project>
